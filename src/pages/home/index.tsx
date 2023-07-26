@@ -59,7 +59,7 @@ export const Home = (): JSX.Element => {
             </Text>
             <Text type="body1" color="grey2">
               Discover here in this environment, created especially for you, all
-              my projects and technologies
+              my projects and technologies, currently I work with fullStack software development, focused on JavaScript hybrid language, I also have knowledge in backEnd with Python using the Django framework
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
